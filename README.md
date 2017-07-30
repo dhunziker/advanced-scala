@@ -1,1 +1,28 @@
 # advanced-scala
+
+* Exercise 1: Printable Library (p26)
+* Exercise 2: Cat Show (p32)
+* Exercise 3: Equality, Liberty, and Felinity (p36)
+* Exercise 4: The Truth About Monoids (p43)
+* Exercise 5: All Set for Monoids (p44)
+* Exercise 6: Adding All The Things (p47)
+* Exercise 7: Branching out with Functors (p66)
+* Exercise 8: Showing off with Contramap (p68)
+* Exercise 9: Transformative Thinking with Imap (p70)
+* Exercise 10: Getting Func-y (p84)
+* Exercise 11: Monadic Secret Identities (p92)
+* Exercise 12: Safer Folding using Eval (p108)
+* Exercise 13: Show Your Working (p114)
+* Exercise 14: Hacking on Readers (p117)
+* Exercise 15: Post-Order Calculator (p124)
+* Exercise 16: Branching out Further with Monads (p129)
+* Exercise 17: Monads: Transform and Roll Out (p142)
+* Exercise 18: Form Validation (p164)
+* Exercise 19: Reflecting on Folds (p173)
+* Exercise 20: Scaf-fold-ing other methods (p174)
+* Exercise 21: Traversing with Vectors (p184)
+* Exercise 22: Traversing with Options (p185)
+* Exercise 23: Traversing with Validated (p185)
+* Exercise 24: GCounter Implementation (p235)
+
+
